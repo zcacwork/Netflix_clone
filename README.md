@@ -12,3 +12,11 @@ The project was successfully deployed, demonstrating practical understanding of:
 Web hosting
 Server management
 Application availability
+
+Key Features:
+Responsive Netflix-like UI
+Movie/show categories display
+User authentication/login system
+API-based content fetching
+Watchlist functionality
+Smooth navigation and interactive design
